@@ -1,4 +1,4 @@
-declare module 'iso-8859-2' {
+declare module '@bojtosvivi/iso-8859-2' {
   type EncodeOptions = {
     mode: 'fatal' | 'replacement';
   };
